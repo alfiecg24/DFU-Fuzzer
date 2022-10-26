@@ -13,5 +13,5 @@ Enjoy!
 
 ## Credits
 
-axi0mX for ipwndfu - I got `dfu.py` from there
-Me - follow my Twitter at @alfiehacks, I sometimes tweet about my projects
+* axi0mX for ipwndfu - I got `dfu.py` from there
+* Me - follow my Twitter at @alfiehacks, I sometimes tweet about my projects ;)
