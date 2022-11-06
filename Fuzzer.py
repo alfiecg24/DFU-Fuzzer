@@ -1,5 +1,3 @@
-#!/opt/homebrew/bin/python3
-
 import usb, time, random, sys
 import dfu
 
