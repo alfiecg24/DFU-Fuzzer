@@ -1,3 +1,5 @@
 __pycache__/
-log.txt
+*.txt
+Logs/*.txt
 .DS_Store
+FuzzerObsolete.py
